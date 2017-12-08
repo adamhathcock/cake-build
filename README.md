@@ -2,7 +2,7 @@
 
 This is a Docker container with both .NET Core 1 and 2 installed to run [Cake](https://cakebuild.net/) with a .NET Core 2 project.
 
-Uses a Ubuntu 16.04 base image.
+Uses a Ubuntu 16.04 base image.  At Docker hub: [https://hub.docker.com/r/adamhathcock/cake-build/](https://hub.docker.com/r/adamhathcock/cake-build/)
 
 ## Sample CircleCI 2.0 Config
 
